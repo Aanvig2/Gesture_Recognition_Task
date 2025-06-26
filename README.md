@@ -22,6 +22,7 @@ A real-time hand gesture recognition tool using **Google's MediaPipe** and **Ope
   - Confidence levels
   - Landmark positions (normalized and world coordinates)
 
+![image](https://github.com/user-attachments/assets/b8c3dca4-7c41-4bf8-9bdf-76eb231e92c1)
 ---
 
 ## How to Use
